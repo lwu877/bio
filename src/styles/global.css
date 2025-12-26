@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Import custom fonts */
+@import '@fontsource-variable/figtree';
+@import '@fontsource-variable/inter';
+
+/* Tailwind v4 theme configuration */
+@theme {
+  --font-sans: 'Inter Variable', ui-sans-serif, system-ui, sans-serif;
+  --font-display: 'Figtree Variable', ui-sans-serif, system-ui, sans-serif;
+}
