@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "music-bio",
+  "name": "bio",
   // Update to today's date
   "compatibility_date": "2025-12-26",
   "assets": {
