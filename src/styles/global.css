@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 /* Import custom fonts */
-@import '@fontsource-variable/Unbounded';
-@import '@fontsource-variable/Geist';
+@import '@fontsource-variable/unbounded';
+@import '@fontsource-variable/geist';
 
 /* Tailwind v4 theme configuration */
 @theme {
