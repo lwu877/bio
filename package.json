@@ -12,11 +12,12 @@
     "@astrojs/cloudflare": "^12.6.12",
     "@fontsource-variable/geist": "^5.2.8",
     "@fontsource-variable/unbounded": "^5.2.8",
-    "@tailwindcss/vite": "^4.1.18",
-    "astro": "^5.16.6",
-    "tailwindcss": "^4.1.18"
+    "@tailwindcss/vite": "^4.2.1",
+    "astro": "^5.18.0",
+    "tailwindcss": "^4.2.1"
   },
   "devDependencies": {
-    "wrangler": "^4.54.0"
+    "@cloudflare/workers-types": "^4.20260305.0",
+    "wrangler": "^4.69.0"
   }
 }
