@@ -9,15 +9,15 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/cloudflare": "^12.6.12",
-    "@fontsource-variable/geist": "^5.2.8",
+    "@astrojs/cloudflare": "^14.1.1",
+    "@fontsource-variable/geist": "^5.2.9",
     "@fontsource-variable/unbounded": "^5.2.8",
-    "@tailwindcss/vite": "^4.2.1",
-    "astro": "^5.18.0",
-    "tailwindcss": "^4.2.1"
+    "@tailwindcss/vite": "^4.3.2",
+    "astro": "^7.0.6",
+    "tailwindcss": "^4.3.2"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20260305.0",
-    "wrangler": "^4.69.0"
+    "@cloudflare/workers-types": "^4.20260702.1",
+    "wrangler": "^4.107.0"
   }
 }
